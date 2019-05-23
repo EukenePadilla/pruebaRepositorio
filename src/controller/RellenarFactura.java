@@ -25,7 +25,7 @@ public class RellenarFactura extends HttpServlet {
         super();
         // TODO Auto-generated constructor stub
     }
-
+    //Esto es una prueba para el commit
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
